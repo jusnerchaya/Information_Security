@@ -16,7 +16,7 @@ In 2012, Saudi Aramco, the world's largest oil company, suffered a devastating c
 
 # a) Security hygiene. What basic security practices should everyone follow? Are there some security hygiene practicies that every company or average Joe should follow?
 
-ans:
+# ans:
 
 a)Security Hygiene: Basic Practices
 
