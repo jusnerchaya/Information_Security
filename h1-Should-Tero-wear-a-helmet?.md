@@ -101,6 +101,6 @@ Use strong access controls and MFA.
 
 # (4) Did We Do a Good Enough Job?
 
-We can do good enounh job by Performing regular audits and pentests.
+We can do good enough job by Performing regular audits and pentests.
 Continuously update threat models.Monitor security metrics.
 Conduct post-incident reviews for continuous improvement.
