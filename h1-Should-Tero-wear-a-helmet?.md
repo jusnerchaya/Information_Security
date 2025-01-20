@@ -8,8 +8,8 @@ The video explains that a big part of threat modeling is figuring out what can g
 # OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
 Threat modeling helps find and fix security risks in a system early and throughout development. It includes understanding the system, spotting possible problems, and deciding how to handle them like fixing or removing the risk. Teams can improve by working with security experts, getting training, and using tools to make the process easier.
 
-# Infosec scene
-EP 30 Shamoon (Virus)
+# Infosec scene :EP 30 Shamoon (Virus)
+
 
 In 2012, Saudi Aramco, the world's largest oil company, suffered a devastating cyberattack by the Shamoon virus, which destroyed thousands of computers. The company undertook massive efforts to restore operations. The attack raised significant concerns about cybersecurity threats to critical infrastructure.
 
