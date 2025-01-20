@@ -1,6 +1,6 @@
 # X)
 # Braiterman et al 2020: Threat Modeling Manifesto
-Threat modeling -identifies and -fixes security risks in a system by analyzing what can go wrong and how to address it. The Threat Modeling Manifesto values collaboration, continuous improvement, and practical solutions over rigid tools or perfection. Anyone can do it, focusing on early analysis, diverse teams, and proven methods.
+Threat modeling ***identifies*** and ***fixes*** security risks in a system by ***analyzing*** what can go wrong and how to address it. The Threat Modeling Manifesto values ***collaboration***, continuous ***improvement***, and ***practical solutions*** over rigid tools or perfection. Anyone can do it, focusing on early analysis, diverse teams, and proven methods.
 
 # Shostack 2022: What Can Go Wrong?
 The video explains that a big part of threat modeling is figuring out what can go wrong in a system. It shows how spotting problems early helps to make systems safer.No need to overcomplicate it; just focus on finding risks. This approach is simple but very effective.
