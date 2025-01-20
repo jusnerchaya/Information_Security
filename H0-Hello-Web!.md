@@ -2,7 +2,7 @@
 This is my First Simple Webpage :)
 ## My First Task Is make this Page'
 
-> #### The Is a list of dog!
+> #### This Is a list of dog!
 >
 > - terrier.
 > - Husky.
