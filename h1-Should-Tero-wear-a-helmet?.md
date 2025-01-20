@@ -10,6 +10,7 @@ Threat modeling helps find and fix security risks in a system early and througho
 
 # Infosec scene
 EP 30 Shamoon (Virus)
+
 In 2012, Saudi Aramco, the world's largest oil company, suffered a devastating cyberattack by the Shamoon virus, which destroyed thousands of computers. The company undertook massive efforts to restore operations. The attack raised significant concerns about cybersecurity threats to critical infrastructure.
 
 
