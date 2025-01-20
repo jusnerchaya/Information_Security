@@ -87,7 +87,7 @@ Business Goal: Secure data storage, uninterrupted service.
 
 # (2) What Can Go Wrong?
 
-# Risks:
+**Risks:**
 
 Data breach: Unauthorized access via compromised API keys (High).
 
@@ -103,7 +103,7 @@ DDoS attack: Disrupting customer portal (Medium).
 
 # (3) What Are We Going to Do About It?
 
-Mitigations:
+**Mitigations:**
 
 Use strong access controls and MFA.
 
