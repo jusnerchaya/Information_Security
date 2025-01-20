@@ -87,7 +87,8 @@ Business Goal: Secure data storage, uninterrupted service.
 
 # (2) What Can Go Wrong?
 
-Risks:
+# Risks:
+
 Data breach: Unauthorized access via compromised API keys (High).
 
 Ransomware attack: Encrypting customer data (High).
@@ -96,22 +97,23 @@ Insider threat: Malicious or accidental file tampering (Medium).
 
 DDoS attack: Disrupting customer portal (Medium).
 
-Threat Actors: Cybercriminals, hacktivists, insiders.
+# Threat Actors: Cybercriminals, hacktivists, insiders.
 
 
 
 # (3) What Are We Going to Do About It?
 
-**Mitigations:
+Mitigations:
+
 Use strong access controls and MFA.
 
-**Rotate encryption keys regularly.
+Rotate encryption keys regularly.
 
-**Implement firewall, IDPS, and DDoS protection.
+Implement firewall, IDPS, and DDoS protection.
 
-**Regularly backup and test disaster recovery.
+Regularly backup and test disaster recovery.
 
-**Train employees on security awareness.
+Train employees on security awareness.
 
 
 # (4) Did We Do a Good Enough Job?
