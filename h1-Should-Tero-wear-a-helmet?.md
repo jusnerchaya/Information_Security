@@ -20,7 +20,7 @@ ans:
 
 a)Security Hygiene: Basic Practices
 
-# **For Individuals:
+**For Individuals:**
 
 1,Use strong, unique passwords.
 
@@ -41,7 +41,7 @@ a)Security Hygiene: Basic Practices
 9,Enable security alerts.
 
 
-# **For Companies:
+ **For Companies:**
 
 1,Train employees on security awareness.
 
