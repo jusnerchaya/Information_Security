@@ -76,3 +76,5 @@ A smart thermostat in a corporate office was hacked, allowing attackers to steal
 - **Access Control:** Restrict IoT device permissions.
 
 This story highlights how small, unsecured IoT devices can create big vulnerabilities.
+
+
