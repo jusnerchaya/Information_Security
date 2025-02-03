@@ -46,3 +46,5 @@ This article revisits essential Linux and BSD command-line basics, emphasizing i
 
 The article concludes with an example of installing, running, and removing a game (`nethack`) while advising against getting addicted!
 
+Source: https://terokarvinen.com/2020/command-line-basics-revisited/
+
