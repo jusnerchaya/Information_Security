@@ -1,3 +1,5 @@
+## x) Read/watch/listen and summarize
+
 # Command Line Basics Revisited
 
 This article revisits essential Linux and BSD command-line basics, emphasizing its efficiency, expressiveness, and automation capabilities.
