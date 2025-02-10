@@ -1,6 +1,6 @@
 # Johnny Tables
 ## x) Read and Summarize 
-# OWASP Top 10 (2021) - Simplified Summary
+# OWASP Top 10 
 
 The OWASP Top 10 is a list of the most serious security risks in web applications. Fixing these issues helps developers and security teams protect websites from hackers.
 
