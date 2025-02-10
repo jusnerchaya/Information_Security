@@ -64,3 +64,8 @@ The OWASP Top 10 is a list of the most serious security risks in web application
 ---
 
 By understanding and fixing these problems, developers can make web applications much safer from cyber attacks.
+
+
+# a)webgoat installed
+# c)updated the operating system and all application on debian
+
